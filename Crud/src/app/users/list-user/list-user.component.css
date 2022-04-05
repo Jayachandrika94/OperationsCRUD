@@ -1,0 +1,14 @@
+#main-Content{
+    margin-left: 50px;
+  } 
+  .username{
+     min-width:300px;
+  }
+
+  .actionLink
+  {
+      padding:10px;
+  }
+  .list-users{
+      padding: 10px;
+  }
